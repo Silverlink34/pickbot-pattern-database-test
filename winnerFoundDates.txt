@@ -1,3 +1,16 @@
+eveningTable-eveningfound,2019-01-05
+eveningTable-eveningfound,2019-01-05
+eveningTable-middayfound,2019-01-05
+eveningTable-middayfound,2019-01-05
+middayTable-middayfound,2019-01-05
+middayTable-middayfound,2019-01-05
+middayTable-middayfound,2019-01-05
+middayTable-middayfound,2019-01-05
+eveningTable-middayfound,2019-01-04
+eveningTable-middayfound,2019-01-04
+middayTable-eveningfound,2019-01-04
+middayTable-middayfound,2019-01-04
+middayTable-middayfound,2019-01-04
 eveningTable-eveningfound,2019-01-03
 eveningTable-middayfound,2019-01-03
 eveningTable-middayfound,2019-01-03
