@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 eveningTable-eveningfound,2019-01-12
 eveningTable-eveningfound,2019-01-12
 eveningTable-middayfound,2019-01-12
@@ -295,7 +293,6 @@ middayTable-middayfound,2018-12-10
 middayTable-eveningfound,2018-12-09
 middayTable-middayfound,2018-12-09
 middayTable-middayfound,2018-12-09
->>>>>>> branch 'master' of https://github.com/Silverlink34/pickbot-pattern-database-test.git
 eveningTable-eveningfound,2018-12-08
 eveningTable-eveningfound,2018-12-08
 eveningTable-eveningfound,2018-12-08
